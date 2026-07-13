@@ -1,0 +1,14 @@
+pandas==1.5.3
+numpy==1.23.5
+boto3==1.26.157
+pyspark==3.5.0
+pyarrow==13.0.0
+pandas-profiling==3.5.0
+plotly==5.18.0
+jupyter==1.0.0
+ipython==8.16.0
+python-dotenv==1.0.0
+awswrangler==3.5.0
+great-expectations==0.17.12
+dbt-core==1.7.0
+dbt-redshift==1.7.0

@@ -1,0 +1,10 @@
+driver_id,driver_name,city_id,vehicle_type,rating,driver_status,snapshot_date
+3001,Ahmet Y.,34,comfort,4.82,active,2026-05-09
+3002,Mehmet K.,34,comfort,4.55,active,2026-05-09
+3003,Ayse D.,34,comfort,4.90,active,2026-05-09
+3004,Fatma S.,34,premium,4.71,active,2026-05-09
+3005,Can T.,34,comfort,4.63,active,2026-05-09
+3006,Deniz A.,34,comfort,4.44,active,2026-05-09
+3007,Elif B.,34,premium,4.95,active,2026-05-09
+3009,Burak N.,34,comfort,4.38,active,2026-05-09
+3011,Zeynep O.,34,economy,4.58,suspended,2026-05-09
